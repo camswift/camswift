@@ -2,6 +2,8 @@
 ─────❅──────────❅──────────❅──────────❅──────────❅──────────❅──────────
 - I enjoy developing software & playing around with hardware.
 ─────❅──────────❅──────────❅──────────❅──────────❅──────────❅──────────
+- Hobbies: Cryptocurrency, Video Games & Coffee.
+─────❅──────────❅──────────❅──────────❅──────────❅──────────❅──────────
 - I'm currently working as a Junior Embedded Systems Software Engineer.
 ─────❅──────────❅──────────❅──────────❅──────────❅──────────❅──────────
 - Contact me: camo.swifty@gmail.com
