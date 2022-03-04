@@ -4,7 +4,7 @@
 -----------------------------------------------------------------------
 - I enjoy developing software & playing around with hardware.
 -----------------------------------------------------------------------
-- Hobbies: Cryptocurrency, Video Games & Coffee.
+- Hobbies: Cryptocurrency, Bouldering, Video Games & Coffee.
 -----------------------------------------------------------------------
 - Contact me: camo.swifty@gmail.com
 
